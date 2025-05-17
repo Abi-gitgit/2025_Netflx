@@ -5,6 +5,8 @@ import AccountBoxIcon from "@mui/icons-material/AccountBox";
 import ArrowDropDownIcon from "@mui/icons-material/ArrowDropDown";
 import NetflixLogo from "../../assets/images/Netflix_Logo_PMS.png";
 import "./header.css";
+
+
 const Header = () => {
   return (
     <div className="header_outer_container">
