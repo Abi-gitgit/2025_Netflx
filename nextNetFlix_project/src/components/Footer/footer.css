@@ -20,7 +20,7 @@
     justify-content: space-between;
 }
 .footer_data ul{
-    list_style: none;
+    list-style: none;
     display: flex;
     flex-direction: column;
     justify-content: space-around;
